@@ -37,8 +37,8 @@ class myClass:
 
         driver.set_page_load_timeout(10)
         driver.get("https://accounts.spotify.com/en/login?continue=https:%2F%2Fopen.spotify.com%2Fsearch%2F")
-        driver.find_element_by_id('login-username').send_keys("shashank.shukla1947@gmail.com")
-        driver.find_element_by_id('login-password').send_keys("Airforce201718@")
+        driver.find_element_by_id('login-username').send_keys("gmail_id")
+        driver.find_element_by_id('login-password').send_keys("password")
         driver.find_element_by_id("login-button").send_keys(Keys.ENTER)
         # WebDriverWait(driver, 10).until(EC.visibility_of_element_located(
         # (By.XPATH, "//li[2]/div/a/div/span"))).click()
