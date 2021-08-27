@@ -48,7 +48,7 @@ class myClass:
 
     def test(self):
         username="shashank.shukla1947@gmail.com"
-        password="Airforce201718@"
+        password=""
         driver = webdriver.Chrome(r"E:\C\Python\test\Selenium Tutorial\Drivers\chromedriver.exe")
         driver.get("https://open.spotify.com/browse/featured")
 
