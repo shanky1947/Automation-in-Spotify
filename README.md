@@ -12,15 +12,15 @@
          alt="HTML">
   </a>
   <a href="">
-    <img src="https://forthebadge.com/images/badges/open-source.svg"
+    <img src="https://github.com/shanky1947/Automation-in-Spotify/blob/master/badges/made-with-selenium.svg"
          alt="CSS">
   </a>
   <a href="">
-    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"
+    <img src="https://github.com/shanky1947/Automation-in-Spotify/blob/master/badges/made-for-spotify.svg"
          alt="Git">
   </a>
     <a href="">
-    <img src="https://forthebadge.com/images/badges/made-with-python.svg"
+    <img src="https://github.com/shanky1947/Automation-in-Spotify/blob/master/badges/made-by-shashank.svg"
          alt="Javascript">
   </a>
 </p>
