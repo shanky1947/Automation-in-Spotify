@@ -16,7 +16,7 @@
          alt="CSS">
   </a>
   <a href="">
-    <img src="https://github.com/shanky1947/Automation-in-Spotify/blob/master/badges/made-with-selenium.svg"
+    <img src="https://github.com/shanky1947/Automation-in-Spotify/blob/master/badges/uses-selenium.svg"
          alt="Git">
   </a>
     <a href="">
